@@ -32,7 +32,7 @@ AUC-ROC is above 0.85.
 - LogisticRegression
 - confusion_matrix
 
-```bash
+bash
 !pip install pyspark
 !pip install phik
 !pip install catboost
