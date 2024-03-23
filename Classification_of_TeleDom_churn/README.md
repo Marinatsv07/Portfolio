@@ -37,7 +37,8 @@ AUC-ROC is above 0.85.
 !pip install phik
 !pip install catboost
 !pip install --upgrade scikit-learn
-General Conclusion
+
+## General Conclusion
 
 I successfully trained various models to predict customer churn, with the focus on logistic regression and CatBoost classifiers. The evaluation of these models was based on metrics such as ROC-AUC and accuracy score. The best model surpassed the ROC-AUC threshold set for success,AUC-ROC is above 0.85 indicating its potential to help TeleDom in its efforts to reduce churn. This accomplishment not only met the project's objectives but also provided valuable insights for improving customer retention strategies.
 
