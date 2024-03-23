@@ -31,12 +31,12 @@ AUC-ROC is above 0.85.
 - accuracy_score
 - LogisticRegression
 - confusion_matrix
-
 bash
 !pip install pyspark
 !pip install phik
 !pip install catboost
 !pip install --upgrade scikit-learn
+
 
 ## General Conclusion
 
