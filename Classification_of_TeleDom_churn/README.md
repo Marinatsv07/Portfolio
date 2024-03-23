@@ -33,7 +33,7 @@ AUC-ROC is above 0.85.
 - confusion_matrix
 
   
-bash
+```bash
 
 !pip install pyspark
 !pip install phik
